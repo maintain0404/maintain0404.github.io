@@ -10,16 +10,7 @@
       <link>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 28 Aug 2023 15:51:58 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pycon2023 튜토리얼 회고</title>
-      <link>https://maintain0404.github.io/posts/pycon2023_tutorial_retrospect.ko/</link>
-      <pubDate>Mon, 28 Aug 2023 15:51:58 +0900</pubDate>
-      
-      <guid>https://maintain0404.github.io/posts/pycon2023_tutorial_retrospect.ko/</guid>
-      <description>Pycon2023 튜토리얼 &amp;ldquo;새로운 풀스택 프레임워크 Reflex로 text2img 모델 페이지 만들어보기&amp;quot;를 진행해본 후기</description>
-    </item>
-    
+    <lastBuildDate>Sun, 27 Aug 2023 16:14:52 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>아키텍처를 경계하라</title>
       <link>https://maintain0404.github.io/posts/beware_of_architecture.ko/</link>
