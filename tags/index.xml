@@ -10,7 +10,34 @@
       <link>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 27 Aug 2023 16:14:52 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Sep 2023 20:51:23 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Convention</title>
+      <link>https://maintain0404.github.io/tags/coding-convention/</link>
+      <pubDate>Wed, 20 Sep 2023 20:51:23 +0900</pubDate>
+      
+      <guid>https://maintain0404.github.io/tags/coding-convention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://maintain0404.github.io/tags/go/</link>
+      <pubDate>Wed, 20 Sep 2023 20:51:23 +0900</pubDate>
+      
+      <guid>https://maintain0404.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://maintain0404.github.io/tags/golang/</link>
+      <pubDate>Wed, 20 Sep 2023 20:51:23 +0900</pubDate>
+      
+      <guid>https://maintain0404.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>architecture</title>
       <link>https://maintain0404.github.io/tags/architecture/</link>

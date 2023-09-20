@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Taein.dev</title>
-    <link>https://maintain0404.github.io/posts/</link>
-    <description>Recent content in Posts on Taein.dev</description>
+    <title>Coding Convention on Taein.dev</title>
+    <link>https://maintain0404.github.io/tags/coding-convention/</link>
+    <description>Recent content in Coding Convention on Taein.dev</description>
     <image>
       <title>Taein.dev</title>
       <url>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Sep 2023 20:51:23 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Sep 2023 20:51:23 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/tags/coding-convention/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>뱅크샐러드 Go 컨벤션 리뷰</title>
       <link>https://maintain0404.github.io/posts/go_convention_review_by_go_newbie.ko/</link>
@@ -18,15 +18,6 @@
       
       <guid>https://maintain0404.github.io/posts/go_convention_review_by_go_newbie.ko/</guid>
       <description>뱅크샐러드 Go 컨벤션을 읽어본 후기</description>
-    </item>
-    
-    <item>
-      <title>아키텍처를 경계하라</title>
-      <link>https://maintain0404.github.io/posts/beware_of_architecture.ko/</link>
-      <pubDate>Sun, 27 Aug 2023 16:14:52 +0900</pubDate>
-      
-      <guid>https://maintain0404.github.io/posts/beware_of_architecture.ko/</guid>
-      <description>소프트웨어 아키텍처를 경계하라</description>
     </item>
     
   </channel>
