@@ -10,7 +10,16 @@
       <link>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Sep 2023 20:51:23 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Nov 2023 01:30:12 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>처음으로 프로덕트를 공개해본 후기</title>
+      <link>https://maintain0404.github.io/posts/first_product_release_review.ko/</link>
+      <pubDate>Thu, 16 Nov 2023 01:30:12 +0900</pubDate>
+      
+      <guid>https://maintain0404.github.io/posts/first_product_release_review.ko/</guid>
+      <description>AI 퀴즈 노트앱을 공개하고 망해본 후기</description>
+    </item>
+    
     <item>
       <title>뱅크샐러드 Go 컨벤션 리뷰</title>
       <link>https://maintain0404.github.io/posts/go_convention_review_by_go_newbie.ko/</link>

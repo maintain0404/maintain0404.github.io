@@ -10,7 +10,43 @@
       <link>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Sep 2023 20:51:23 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Nov 2023 01:30:12 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS</title>
+      <link>https://maintain0404.github.io/tags/aws/</link>
+      <pubDate>Thu, 16 Nov 2023 01:30:12 +0900</pubDate>
+      
+      <guid>https://maintain0404.github.io/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product</title>
+      <link>https://maintain0404.github.io/tags/product/</link>
+      <pubDate>Thu, 16 Nov 2023 01:30:12 +0900</pubDate>
+      
+      <guid>https://maintain0404.github.io/tags/product/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://maintain0404.github.io/tags/python/</link>
+      <pubDate>Thu, 16 Nov 2023 01:30:12 +0900</pubDate>
+      
+      <guid>https://maintain0404.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflex</title>
+      <link>https://maintain0404.github.io/tags/reflex/</link>
+      <pubDate>Thu, 16 Nov 2023 01:30:12 +0900</pubDate>
+      
+      <guid>https://maintain0404.github.io/tags/reflex/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Coding Convention</title>
       <link>https://maintain0404.github.io/tags/coding-convention/</link>

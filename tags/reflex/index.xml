@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>reflex on Taein.dev</title>
+    <title>Reflex on Taein.dev</title>
     <link>https://maintain0404.github.io/tags/reflex/</link>
-    <description>Recent content in reflex on Taein.dev</description>
+    <description>Recent content in Reflex on Taein.dev</description>
     <image>
       <title>Taein.dev</title>
       <url>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 28 Aug 2023 15:51:58 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/tags/reflex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Nov 2023 01:30:12 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/tags/reflex/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pycon2023 튜토리얼 회고</title>
-      <link>https://maintain0404.github.io/posts/pycon2023_tutorial_retrospect.ko/</link>
-      <pubDate>Mon, 28 Aug 2023 15:51:58 +0900</pubDate>
+      <title>처음으로 프로덕트를 공개해본 후기</title>
+      <link>https://maintain0404.github.io/posts/first_product_release_review.ko/</link>
+      <pubDate>Thu, 16 Nov 2023 01:30:12 +0900</pubDate>
       
-      <guid>https://maintain0404.github.io/posts/pycon2023_tutorial_retrospect.ko/</guid>
-      <description>Pycon2023 튜토리얼 &amp;ldquo;새로운 풀스택 프레임워크 Reflex로 text2img 모델 페이지 만들어보기&amp;quot;를 진행해본 후기</description>
+      <guid>https://maintain0404.github.io/posts/first_product_release_review.ko/</guid>
+      <description>AI 퀴즈 노트앱을 공개하고 망해본 후기</description>
     </item>
     
   </channel>
