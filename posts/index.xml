@@ -10,7 +10,16 @@
       <link>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 16 Nov 2023 01:30:12 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Dec 2023 23:43:57 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>소트트웨어에서 여러 작업 흐름을 관리하는 다양한 방법</title>
+      <link>https://maintain0404.github.io/posts/resource_managing_in_software.ko/</link>
+      <pubDate>Sun, 10 Dec 2023 23:43:57 +0900</pubDate>
+      
+      <guid>https://maintain0404.github.io/posts/resource_managing_in_software.ko/</guid>
+      <description>소트트웨어에서 여러 작업 흐름을 관리하는 방법</description>
+    </item>
+    
     <item>
       <title>처음으로 프로덕트를 공개해본 후기</title>
       <link>https://maintain0404.github.io/posts/first_product_release_review.ko/</link>
