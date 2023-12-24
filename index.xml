@@ -10,7 +10,16 @@
       <link>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 10 Dec 2023 23:43:57 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Dec 2023 21:03:30 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ASGI 깊게 살펴보기</title>
+      <link>https://maintain0404.github.io/posts/asgi_deep_dive.ko/</link>
+      <pubDate>Sun, 24 Dec 2023 21:03:30 +0900</pubDate>
+      
+      <guid>https://maintain0404.github.io/posts/asgi_deep_dive.ko/</guid>
+      <description>ASGI 도입 배경과 프로토콜을 깊게 분석해봅니다.</description>
+    </item>
+    
     <item>
       <title>소트트웨어에서 여러 작업 흐름을 관리하는 다양한 방법</title>
       <link>https://maintain0404.github.io/posts/resource_managing_in_software.ko/</link>

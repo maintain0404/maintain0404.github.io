@@ -10,7 +10,25 @@
       <link>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 16 Nov 2023 01:30:12 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Dec 2023 21:03:30 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ASGI</title>
+      <link>https://maintain0404.github.io/tags/asgi/</link>
+      <pubDate>Sun, 24 Dec 2023 21:03:30 +0900</pubDate>
+      
+      <guid>https://maintain0404.github.io/tags/asgi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://maintain0404.github.io/tags/python/</link>
+      <pubDate>Sun, 24 Dec 2023 21:03:30 +0900</pubDate>
+      
+      <guid>https://maintain0404.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>AWS</title>
       <link>https://maintain0404.github.io/tags/aws/</link>
@@ -26,15 +44,6 @@
       <pubDate>Thu, 16 Nov 2023 01:30:12 +0900</pubDate>
       
       <guid>https://maintain0404.github.io/tags/product/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://maintain0404.github.io/tags/python/</link>
-      <pubDate>Thu, 16 Nov 2023 01:30:12 +0900</pubDate>
-      
-      <guid>https://maintain0404.github.io/tags/python/</guid>
       <description></description>
     </item>
     
