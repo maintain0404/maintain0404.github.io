@@ -10,7 +10,16 @@
       <link>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 24 Dec 2023 21:03:30 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jan 2024 23:34:26 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflex 사용 후 느낌 점(with 간단한 팁)</title>
+      <link>https://maintain0404.github.io/posts/reflex_review.ko/</link>
+      <pubDate>Sun, 07 Jan 2024 23:34:26 +0900</pubDate>
+      
+      <guid>https://maintain0404.github.io/posts/reflex_review.ko/</guid>
+      <description>새로운 풀 스택 python 프레임워크를 약 8개월간 사용해보고 느낀 점과 간단한 팁을 공유합니다.</description>
+    </item>
+    
     <item>
       <title>ASGI 깊게 살펴보기</title>
       <link>https://maintain0404.github.io/posts/asgi_deep_dive.ko/</link>
