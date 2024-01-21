@@ -10,7 +10,16 @@
       <link>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 Jan 2024 23:34:26 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jan 2024 15:53:05 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ASGI 서버 개발기 1 - 프로젝트 시작하기</title>
+      <link>https://maintain0404.github.io/posts/develop_asgi_server.ko/</link>
+      <pubDate>Sun, 21 Jan 2024 15:53:05 +0900</pubDate>
+      
+      <guid>https://maintain0404.github.io/posts/develop_asgi_server.ko/</guid>
+      <description>ASGI HTTP/Websocket 서버를 직접 개발해보는 기록</description>
+    </item>
+    
     <item>
       <title>Reflex 사용 후 느낌 점(with 간단한 팁)</title>
       <link>https://maintain0404.github.io/posts/reflex_review.ko/</link>
