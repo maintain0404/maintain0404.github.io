@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rust on Taein.dev</title>
     <link>https://maintain0404.github.io/tags/rust/</link>
@@ -10,15 +10,15 @@
       <link>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 21 Jan 2024 15:53:05 +0900</lastBuildDate><atom:link href="https://maintain0404.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 21 Jan 2024 15:53:05 +0900</lastBuildDate>
+    <atom:link href="https://maintain0404.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ASGI 서버 개발기 1 - 프로젝트 시작하기</title>
       <link>https://maintain0404.github.io/posts/develop_asgi_server.ko/</link>
       <pubDate>Sun, 21 Jan 2024 15:53:05 +0900</pubDate>
-      
       <guid>https://maintain0404.github.io/posts/develop_asgi_server.ko/</guid>
       <description>ASGI HTTP/Websocket 서버를 직접 개발해보는 기록</description>
     </item>
-    
   </channel>
 </rss>
