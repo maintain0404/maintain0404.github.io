@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reflex on Taein.dev</title>
-    <link>https://maintain0404.github.io/tags/reflex/</link>
-    <description>Recent content in Reflex on Taein.dev</description>
+    <title>Frontend on Taein.dev</title>
+    <link>https://maintain0404.github.io/tags/frontend/</link>
+    <description>Recent content in Frontend on Taein.dev</description>
     <image>
       <title>Taein.dev</title>
       <url>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,20 +12,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 07 Jan 2024 23:34:26 +0900</lastBuildDate>
-    <atom:link href="https://maintain0404.github.io/tags/reflex/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://maintain0404.github.io/tags/frontend/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reflex 사용 후 느낌 점(with 간단한 팁)</title>
       <link>https://maintain0404.github.io/posts/reflex_review.ko/</link>
       <pubDate>Sun, 07 Jan 2024 23:34:26 +0900</pubDate>
       <guid>https://maintain0404.github.io/posts/reflex_review.ko/</guid>
       <description>새로운 풀 스택 python 프레임워크를 약 8개월간 사용해보고 느낀 점과 간단한 팁을 공유합니다.</description>
-    </item>
-    <item>
-      <title>처음으로 프로덕트를 공개해본 후기</title>
-      <link>https://maintain0404.github.io/posts/first_product_release_review.ko/</link>
-      <pubDate>Thu, 16 Nov 2023 01:30:12 +0900</pubDate>
-      <guid>https://maintain0404.github.io/posts/first_product_release_review.ko/</guid>
-      <description>AI 퀴즈 노트앱을 공개하고 망해본 후기</description>
     </item>
   </channel>
 </rss>
