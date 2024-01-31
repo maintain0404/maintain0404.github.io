@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing on Taein.dev</title>
+    <link>https://maintain0404.github.io/tags/writing/</link>
+    <description>Recent content in Writing on Taein.dev</description>
+    <image>
+      <title>Taein.dev</title>
+      <url>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 31 Jan 2024 19:01:00 +0900</lastBuildDate>
+    <atom:link href="https://maintain0404.github.io/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>나의 글쓰기 분석해보기</title>
+      <link>https://maintain0404.github.io/posts/analysis_my_writing.ko/</link>
+      <pubDate>Wed, 31 Jan 2024 19:01:00 +0900</pubDate>
+      <guid>https://maintain0404.github.io/posts/analysis_my_writing.ko/</guid>
+      <description>기술 글로그를 작성하면서 겪은 글쓰기 경험을 분석해보고 개선 계획을 세워봤습니다. 글또 과제로 작성되었습니다.</description>
+    </item>
+  </channel>
+</rss>
