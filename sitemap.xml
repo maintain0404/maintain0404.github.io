@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://maintain0404.github.io/posts/</loc>
+    <lastmod>2024-02-18T22:54:00+09:00</lastmod>
+  </url><url>
+    <loc>https://maintain0404.github.io/tags/rust/</loc>
+    <lastmod>2024-02-18T22:54:00+09:00</lastmod>
+  </url><url>
+    <loc>https://maintain0404.github.io/posts/enum_in_rust.ko/</loc>
+    <lastmod>2024-02-18T22:54:00+09:00</lastmod>
+  </url><url>
+    <loc>https://maintain0404.github.io/</loc>
+    <lastmod>2024-02-18T22:54:00+09:00</lastmod>
+  </url><url>
+    <loc>https://maintain0404.github.io/tags/</loc>
+    <lastmod>2024-02-18T22:54:00+09:00</lastmod>
+  </url><url>
+    <loc>https://maintain0404.github.io/tags/type/</loc>
+    <lastmod>2024-02-18T22:54:00+09:00</lastmod>
+  </url><url>
     <loc>https://maintain0404.github.io/tags/asgi/</loc>
     <lastmod>2024-02-04T22:56:00+09:00</lastmod>
   </url><url>
@@ -11,19 +29,7 @@
     <loc>https://maintain0404.github.io/tags/http/</loc>
     <lastmod>2024-02-04T22:56:00+09:00</lastmod>
   </url><url>
-    <loc>https://maintain0404.github.io/posts/</loc>
-    <lastmod>2024-02-04T22:56:00+09:00</lastmod>
-  </url><url>
     <loc>https://maintain0404.github.io/tags/python/</loc>
-    <lastmod>2024-02-04T22:56:00+09:00</lastmod>
-  </url><url>
-    <loc>https://maintain0404.github.io/tags/rust/</loc>
-    <lastmod>2024-02-04T22:56:00+09:00</lastmod>
-  </url><url>
-    <loc>https://maintain0404.github.io/</loc>
-    <lastmod>2024-02-04T22:56:00+09:00</lastmod>
-  </url><url>
-    <loc>https://maintain0404.github.io/tags/</loc>
     <lastmod>2024-02-04T22:56:00+09:00</lastmod>
   </url><url>
     <loc>https://maintain0404.github.io/tags/writing/</loc>
