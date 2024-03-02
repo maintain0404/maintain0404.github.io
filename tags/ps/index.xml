@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PS on Taein.dev</title>
+    <link>https://maintain0404.github.io/tags/ps/</link>
+    <description>Recent content in PS on Taein.dev</description>
+    <image>
+      <title>Taein.dev</title>
+      <url>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://maintain0404.github.io/tags/ps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>코드트리 1달간 사용해본 후기</title>
+      <link>https://maintain0404.github.io/posts/codetree_review.ko/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0900</pubDate>
+      <guid>https://maintain0404.github.io/posts/codetree_review.ko/</guid>
+      <description>코딩 학습 서비스 코드트리를 사용해보고 느낀 점을 적어</description>
+    </item>
+  </channel>
+</rss>

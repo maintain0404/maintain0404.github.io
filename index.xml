@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Feb 2024 22:54:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://maintain0404.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>코드트리 1달간 사용해본 후기</title>
+      <link>https://maintain0404.github.io/posts/codetree_review.ko/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0900</pubDate>
+      <guid>https://maintain0404.github.io/posts/codetree_review.ko/</guid>
+      <description>코딩 학습 서비스 코드트리를 사용해보고 느낀 점을 적어</description>
+    </item>
     <item>
       <title>Rust enum 이해하기</title>
       <link>https://maintain0404.github.io/posts/enum_in_rust.ko/</link>
@@ -82,6 +89,21 @@
       <pubDate>Sun, 27 Aug 2023 16:14:52 +0900</pubDate>
       <guid>https://maintain0404.github.io/posts/beware_of_architecture.ko/</guid>
       <description>소프트웨어 아키텍처를 경계하라</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://maintain0404.github.io/posts/ideal_architectures.ko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maintain0404.github.io/posts/ideal_architectures.ko/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://maintain0404.github.io/posts/thinking_of_clean_code.ko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maintain0404.github.io/posts/thinking_of_clean_code.ko/</guid>
+      <description>개요 
+좋은 소프트웨어란 무엇인가? 다양한 기준으로 정해질 수 있다. 성능이 좋은 것 미려한 것 사용이 편한 것 등 변화 변하지 않는 유일한 것 -&amp;gt; 세상은 변화한다. 코드를 둘러싼 환경도 변한다. 버그 발견, 더 좋은 대안의 등장, 신규 기능의 수요 등 영원히 괜찮 코드도 세상의 변화에 대응해야 한다. 변화에 잘 대응하는 소프트웨어 변화에 대응하는 방법 수명을 종료한다. 사실 이것도 중요함. 그러나 이 글에서는 목적과 궤가 다르므로 다루지 않곘음 지속적으로 같이 변화한다.</description>
     </item>
   </channel>
 </rss>
