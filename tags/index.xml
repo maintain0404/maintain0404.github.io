@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Taein.dev</title>
     <link>https://maintain0404.github.io/tags/</link>
@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 21:09:00 +0900</lastBuildDate>
     <atom:link href="https://maintain0404.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>python</title>
+      <link>https://maintain0404.github.io/tags/python/</link>
+      <pubDate>Mon, 08 Apr 2024 21:09:00 +0900</pubDate>
+      <guid>https://maintain0404.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PyWebSymposium2024</title>
+      <link>https://maintain0404.github.io/tags/pywebsymposium2024/</link>
+      <pubDate>Mon, 08 Apr 2024 21:09:00 +0900</pubDate>
+      <guid>https://maintain0404.github.io/tags/pywebsymposium2024/</guid>
+      <description></description>
+    </item>
     <item>
       <title>CodeTree</title>
       <link>https://maintain0404.github.io/tags/codetree/</link>
@@ -53,13 +67,6 @@
       <link>https://maintain0404.github.io/tags/http/</link>
       <pubDate>Sun, 04 Feb 2024 22:56:00 +0900</pubDate>
       <guid>https://maintain0404.github.io/tags/http/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>python</title>
-      <link>https://maintain0404.github.io/tags/python/</link>
-      <pubDate>Sun, 04 Feb 2024 22:56:00 +0900</pubDate>
-      <guid>https://maintain0404.github.io/tags/python/</guid>
       <description></description>
     </item>
     <item>

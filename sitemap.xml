@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://maintain0404.github.io/posts/</loc>
+    <lastmod>2024-04-08T21:09:00+09:00</lastmod>
+  </url><url>
+    <loc>https://maintain0404.github.io/tags/python/</loc>
+    <lastmod>2024-04-08T21:09:00+09:00</lastmod>
+  </url><url>
+    <loc>https://maintain0404.github.io/posts/pyweb_symposium_2024_review.ko/</loc>
+    <lastmod>2024-04-08T21:09:00+09:00</lastmod>
+  </url><url>
+    <loc>https://maintain0404.github.io/tags/pywebsymposium2024/</loc>
+    <lastmod>2024-04-08T21:09:00+09:00</lastmod>
+  </url><url>
+    <loc>https://maintain0404.github.io/</loc>
+    <lastmod>2024-04-08T21:09:00+09:00</lastmod>
+  </url><url>
+    <loc>https://maintain0404.github.io/tags/</loc>
+    <lastmod>2024-04-08T21:09:00+09:00</lastmod>
+  </url><url>
     <loc>https://maintain0404.github.io/tags/codetree/</loc>
     <lastmod>2024-03-03T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://maintain0404.github.io/posts/</loc>
-    <lastmod>2024-03-03T00:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://maintain0404.github.io/tags/ps/</loc>
-    <lastmod>2024-03-03T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://maintain0404.github.io/</loc>
-    <lastmod>2024-03-03T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://maintain0404.github.io/tags/</loc>
     <lastmod>2024-03-03T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://maintain0404.github.io/posts/codetree_review.ko/</loc>
@@ -36,9 +45,6 @@
     <lastmod>2024-02-04T22:56:00+09:00</lastmod>
   </url><url>
     <loc>https://maintain0404.github.io/tags/http/</loc>
-    <lastmod>2024-02-04T22:56:00+09:00</lastmod>
-  </url><url>
-    <loc>https://maintain0404.github.io/tags/python/</loc>
     <lastmod>2024-02-04T22:56:00+09:00</lastmod>
   </url><url>
     <loc>https://maintain0404.github.io/tags/writing/</loc>
@@ -91,8 +97,6 @@
   </url><url>
     <loc>https://maintain0404.github.io/posts/beware_of_architecture.ko/</loc>
     <lastmod>2023-08-27T16:14:52+09:00</lastmod>
-  </url><url>
-    <loc>https://maintain0404.github.io/posts/ideal_architectures.ko/</loc>
   </url><url>
     <loc>https://maintain0404.github.io/archives/</loc>
   </url><url>
