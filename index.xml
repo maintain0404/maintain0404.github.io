@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 May 2024 23:22:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://maintain0404.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supabase의 소소한 사용 팁들</title>
+      <link>https://maintain0404.github.io/posts/supabase-tips.ko/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://maintain0404.github.io/posts/supabase-tips.ko/</guid>
+      <description>Supabase 사용 팁을 정리해봤습니다.</description>
+    </item>
     <item>
       <title>작은 서비스를 위한 인프라 선택하기</title>
       <link>https://maintain0404.github.io/posts/starting_small_service.ko/</link>

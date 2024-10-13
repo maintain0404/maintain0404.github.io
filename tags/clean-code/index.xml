@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Clean Code on Taein.dev</title>
+    <link>https://maintain0404.github.io/tags/clean-code/</link>
+    <description>Recent content in Clean Code on Taein.dev</description>
+    <image>
+      <title>Taein.dev</title>
+      <url>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://maintain0404.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://maintain0404.github.io/tags/clean-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://maintain0404.github.io/posts/thinking_of_clean_code.ko-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maintain0404.github.io/posts/thinking_of_clean_code.ko-copy/</guid>
+      <description>개요 제가 처음으로 클린 코드 이론을 공부한 것은 3년 전입니다. 그 때 공부한 것은 알뜰살뜰하게 잘 써먹고 있습니다. 그런데 얼마 전에 이런 의문이 들었습니다. 유지보수를 하지 않을 거라면 클린 코드를 신경쓰지 않는 것이 효율적이지 않을까?
+클린 코드의 목적은 유지보수입니다. 클린 코드 원칙을 지키려면 어느 정도 코드의 양이 늘어나게 됩니다.</description>
+    </item>
+  </channel>
+</rss>
