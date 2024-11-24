@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://maintain0404.github.io/posts/grais_asgi_implementation_retrospect_1.ko/</loc>
+    <lastmod>2024-11-24T15:22:29+09:00</lastmod>
+  </url><url>
     <loc>https://maintain0404.github.io/posts/</loc>
-    <lastmod>2024-11-10T03:27:09+09:00</lastmod>
+    <lastmod>2024-11-24T15:22:29+09:00</lastmod>
+  </url><url>
+    <loc>https://maintain0404.github.io/</loc>
+    <lastmod>2024-11-24T15:22:29+09:00</lastmod>
   </url><url>
     <loc>https://maintain0404.github.io/tags/pycon-kr/</loc>
     <lastmod>2024-11-10T03:27:09+09:00</lastmod>
@@ -11,13 +17,10 @@
     <loc>https://maintain0404.github.io/tags/pycon-kr-2024/</loc>
     <lastmod>2024-11-10T03:27:09+09:00</lastmod>
   </url><url>
-    <loc>https://maintain0404.github.io/posts/pycon2024-review/</loc>
+    <loc>https://maintain0404.github.io/posts/pycon2024-review.ko/</loc>
     <lastmod>2024-11-10T03:27:09+09:00</lastmod>
   </url><url>
     <loc>https://maintain0404.github.io/tags/python/</loc>
-    <lastmod>2024-11-10T03:27:09+09:00</lastmod>
-  </url><url>
-    <loc>https://maintain0404.github.io/</loc>
     <lastmod>2024-11-10T03:27:09+09:00</lastmod>
   </url><url>
     <loc>https://maintain0404.github.io/tags/</loc>

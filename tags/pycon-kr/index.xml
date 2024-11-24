@@ -15,12 +15,11 @@
     <atom:link href="https://maintain0404.github.io/tags/pycon-kr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pycon2024에서 발표한 후기</title>
-      <link>https://maintain0404.github.io/posts/pycon2024-review/</link>
+      <link>https://maintain0404.github.io/posts/pycon2024-review.ko/</link>
       <pubDate>Sun, 10 Nov 2024 03:27:09 +0900</pubDate>
-      <guid>https://maintain0404.github.io/posts/pycon2024-review/</guid>
+      <guid>https://maintain0404.github.io/posts/pycon2024-review.ko/</guid>
       <description>개요 얼마 전, 수원 컨벤션센터에서 열린 PyCon KR 2024에서 &amp;ldquo;ASGI 서버 구현기 with PyO3&amp;quot;라는 제목으로 세션 발표를 진행했습니다. 세션 준비하고 발표하는 과정에서 느낀 점을 공유합니다.
-준비하기 전 저는 Python Django 웹 개발로 프로그래밍에 입문했습니다. 커리어 시작도 Python Backend Engineer로 했습니다. 그래서 저는 Python이 가장 제가 애착이 가는 프로그래밍 언어입니다. 2019년에 처음으로 PyCon에 참가했을 때, 언젠가는 저도 발표자로 서야겠다는 생각을 했습니다. 가능하다면 첫 세션 발표로요. 그리고 한동안 잊고 살았었습니다.
-2020년 말에 Python 백엔드 개발자로 일하기 시작하고 회사에서 당시 새롭게 부상하던 ASGI 프레임워크 FastAPI를 도입했습니다.</description>
+준비하기 전 저는 Python Django 웹 개발로 프로그래밍에 입문했습니다. 프로젝트를 진행할 때 웹개발이 필요하다면 거의 django를 사용했고, 커리어도 django를 사용하는 Python Backend Engineer로 시작했습니다. 그래서인지 저는 Python이 애착이 갔습니다. 첫 개발 컨퍼런스도 2019년에 열린 PyCon KR이었는데, 거기서 언젠가는 저도 발표자로 서야겠다는 생각을 했습니다. 가능하다면 첫 발표는 PyCon이면 좋겠다고 생각했었습니다.</description>
     </item>
   </channel>
 </rss>
