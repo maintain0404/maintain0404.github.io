@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Nov 2024 15:22:29 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 23:00:18 +0900</lastBuildDate>
     <atom:link href="https://maintain0404.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024년 회고</title>
+      <link>https://maintain0404.github.io/posts/retrospect_2024.ko/</link>
+      <pubDate>Sun, 05 Jan 2025 23:00:18 +0900</pubDate>
+      <guid>https://maintain0404.github.io/posts/retrospect_2024.ko/</guid>
+      <description>들어가며 다사다난한 한 해를 보냈습니다. 2024년을 되돌아보고 2025년에는 뭘 하고 싶은지 정리해보았습니다.
+창업 2년간 Backend Engineer로 일하면서 뭘 개발할지 선택하는 결정이 굉장히 중요하다고 느꼈습니다. 계속 Backend Engineer로 커리어를 지속한다면 한 명의 엔지니어로서 잘 해낼 자신이 있었지만 일을 잘 하는 사람이 될 것인가에 대해선 의문이 있었습니다. 엔지니어로서 비즈니스를 이해하는 건 중요하지만, 어쨌든 직접적으로 결정을 내리는 사람은 아닙니다. 그래서 창업을 하기로 결심했고 올해 2개의 창업 팀을 거쳤습니다.
+첫 팀에서는 회사의 개발자가 아닌 창업팀의 개발자가 가져야 할 프로덕트에 대한 관점을 배웠습니다.</description>
+    </item>
     <item>
       <title>grais-asgi 구현기 1 - CLI 라이브러리를 선택한 기준들</title>
       <link>https://maintain0404.github.io/posts/grais_asgi_implementation_retrospect_1.ko/</link>
@@ -49,6 +58,13 @@ cli 선택 기준 커맨드라인 인터페이스를 구현하는 데에서 가�
       <pubDate>Mon, 08 Apr 2024 21:09:00 +0900</pubDate>
       <guid>https://maintain0404.github.io/posts/pyweb_symposium_2024_review.ko/</guid>
       <description>Python Web Symposium 2024를 다녀오고 셰션 후기를 정리해봅니다.</description>
+    </item>
+    <item>
+      <title>안녕 Litestar</title>
+      <link>https://maintain0404.github.io/posts/fastapi-litestar/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://maintain0404.github.io/posts/fastapi-litestar/</guid>
+      <description>더 나은 구조화와 확장성을 제공하는 Python 웹 프레임워크 Litestar를 소개합니다</description>
     </item>
     <item>
       <title>코드트리 1달간 사용해본 후기</title>
