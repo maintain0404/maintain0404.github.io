@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Nov 2024 03:27:09 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 15:22:29 +0900</lastBuildDate>
     <atom:link href="https://maintain0404.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>안녕 Litestar</title>
+      <link>https://maintain0404.github.io/posts/fastapi2litestar/</link>
+      <pubDate>Sun, 19 Jan 2025 15:22:29 +0900</pubDate>
+      <guid>https://maintain0404.github.io/posts/fastapi2litestar/</guid>
+      <description>더 나은 구조화와 확장성을 제공하는 Python 웹 프레임워크 Litestar를 소개합니다</description>
+    </item>
     <item>
       <title>Pycon2024에서 발표한 후기</title>
       <link>https://maintain0404.github.io/posts/pycon2024-review.ko/</link>
@@ -27,13 +34,6 @@
       <pubDate>Mon, 08 Apr 2024 21:09:00 +0900</pubDate>
       <guid>https://maintain0404.github.io/posts/pyweb_symposium_2024_review.ko/</guid>
       <description>Python Web Symposium 2024를 다녀오고 셰션 후기를 정리해봅니다.</description>
-    </item>
-    <item>
-      <title>안녕 Litestar</title>
-      <link>https://maintain0404.github.io/posts/fastapi-litestar/</link>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://maintain0404.github.io/posts/fastapi-litestar/</guid>
-      <description>더 나은 구조화와 확장성을 제공하는 Python 웹 프레임워크 Litestar를 소개합니다</description>
     </item>
     <item>
       <title>ASGI 서버 개발기 2 - HTTP 헤더 처리하기</title>

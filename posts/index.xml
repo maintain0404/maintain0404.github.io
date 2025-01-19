@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jan 2025 23:00:18 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 15:22:29 +0900</lastBuildDate>
     <atom:link href="https://maintain0404.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>안녕 Litestar</title>
+      <link>https://maintain0404.github.io/posts/fastapi2litestar/</link>
+      <pubDate>Sun, 19 Jan 2025 15:22:29 +0900</pubDate>
+      <guid>https://maintain0404.github.io/posts/fastapi2litestar/</guid>
+      <description>더 나은 구조화와 확장성을 제공하는 Python 웹 프레임워크 Litestar를 소개합니다</description>
+    </item>
     <item>
       <title>2024년 회고</title>
       <link>https://maintain0404.github.io/posts/retrospect_2024.ko/</link>
@@ -58,13 +65,6 @@ cli 선택 기준 커맨드라인 인터페이스를 구현하는 데에서 가�
       <pubDate>Mon, 08 Apr 2024 21:09:00 +0900</pubDate>
       <guid>https://maintain0404.github.io/posts/pyweb_symposium_2024_review.ko/</guid>
       <description>Python Web Symposium 2024를 다녀오고 셰션 후기를 정리해봅니다.</description>
-    </item>
-    <item>
-      <title>안녕 Litestar</title>
-      <link>https://maintain0404.github.io/posts/fastapi-litestar/</link>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://maintain0404.github.io/posts/fastapi-litestar/</guid>
-      <description>더 나은 구조화와 확장성을 제공하는 Python 웹 프레임워크 Litestar를 소개합니다</description>
     </item>
     <item>
       <title>코드트리 1달간 사용해본 후기</title>

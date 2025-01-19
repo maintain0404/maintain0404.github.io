@@ -11,8 +11,36 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Nov 2024 03:27:09 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 15:22:29 +0900</lastBuildDate>
     <atom:link href="https://maintain0404.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fastapi</title>
+      <link>https://maintain0404.github.io/tags/fastapi/</link>
+      <pubDate>Sun, 19 Jan 2025 15:22:29 +0900</pubDate>
+      <guid>https://maintain0404.github.io/tags/fastapi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>litestar</title>
+      <link>https://maintain0404.github.io/tags/litestar/</link>
+      <pubDate>Sun, 19 Jan 2025 15:22:29 +0900</pubDate>
+      <guid>https://maintain0404.github.io/tags/litestar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>python</title>
+      <link>https://maintain0404.github.io/tags/python/</link>
+      <pubDate>Sun, 19 Jan 2025 15:22:29 +0900</pubDate>
+      <guid>https://maintain0404.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>web-framework</title>
+      <link>https://maintain0404.github.io/tags/web-framework/</link>
+      <pubDate>Sun, 19 Jan 2025 15:22:29 +0900</pubDate>
+      <guid>https://maintain0404.github.io/tags/web-framework/</guid>
+      <description></description>
+    </item>
     <item>
       <title>PyCon KR</title>
       <link>https://maintain0404.github.io/tags/pycon-kr/</link>
@@ -25,13 +53,6 @@
       <link>https://maintain0404.github.io/tags/pycon-kr-2024/</link>
       <pubDate>Sun, 10 Nov 2024 03:27:09 +0900</pubDate>
       <guid>https://maintain0404.github.io/tags/pycon-kr-2024/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>python</title>
-      <link>https://maintain0404.github.io/tags/python/</link>
-      <pubDate>Sun, 10 Nov 2024 03:27:09 +0900</pubDate>
-      <guid>https://maintain0404.github.io/tags/python/</guid>
       <description></description>
     </item>
     <item>
@@ -67,27 +88,6 @@
       <link>https://maintain0404.github.io/tags/pywebsymposium2024/</link>
       <pubDate>Mon, 08 Apr 2024 21:09:00 +0900</pubDate>
       <guid>https://maintain0404.github.io/tags/pywebsymposium2024/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>fastapi</title>
-      <link>https://maintain0404.github.io/tags/fastapi/</link>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://maintain0404.github.io/tags/fastapi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>litestar</title>
-      <link>https://maintain0404.github.io/tags/litestar/</link>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://maintain0404.github.io/tags/litestar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>web-framework</title>
-      <link>https://maintain0404.github.io/tags/web-framework/</link>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://maintain0404.github.io/tags/web-framework/</guid>
       <description></description>
     </item>
     <item>
