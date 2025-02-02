@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jan 2025 15:22:29 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 23:20:45 +0900</lastBuildDate>
     <atom:link href="https://maintain0404.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LLM으로 IaC(Infrastructure as Code)해본 후기 with Pulumi</title>
+      <link>https://maintain0404.github.io/posts/iac_with_pulumi_and_llm.ko/</link>
+      <pubDate>Sun, 02 Feb 2025 23:20:45 +0900</pubDate>
+      <guid>https://maintain0404.github.io/posts/iac_with_pulumi_and_llm.ko/</guid>
+      <description>LLM으로 인프라를 코드로 작성해본 경험을 공유합니다.</description>
+    </item>
     <item>
       <title>안녕 Litestar</title>
       <link>https://maintain0404.github.io/posts/fastapi2litestar/</link>
