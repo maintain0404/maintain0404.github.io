@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Feb 2025 23:20:45 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 15:34:21 +0900</lastBuildDate>
     <atom:link href="https://maintain0404.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>아름다운 것을 생각해야 해요</title>
+      <link>https://maintain0404.github.io/posts/think_something_beautful.ko/</link>
+      <pubDate>Sun, 16 Feb 2025 15:34:21 +0900</pubDate>
+      <guid>https://maintain0404.github.io/posts/think_something_beautful.ko/</guid>
+      <description>아름다운 코드가 무엇인지 생각해야 합니다. 단, 생각만 해야 합니다.</description>
+    </item>
     <item>
       <title>LLM으로 IaC(Infrastructure as Code)해본 후기 with Pulumi</title>
       <link>https://maintain0404.github.io/posts/iac_with_pulumi_and_llm.ko/</link>
